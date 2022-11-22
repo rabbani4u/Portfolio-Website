@@ -140,3 +140,4 @@ $(document).ready(function(){
 });
  
 let currentYear = new Date().getFullYear();
+document.querySelector("#year").innerHTML = currentYear + "&copy;  All Right Reserved l Design By Rabbani Khan";
