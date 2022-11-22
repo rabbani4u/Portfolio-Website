@@ -138,6 +138,5 @@ $(document).ready(function(){
         }, 1500);
     })
 });
-
-let date = new Date();
-let currentYear = date.getFullYear();
+ 
+let currentYear = new Date().getFullYear();
