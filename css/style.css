@@ -577,10 +577,6 @@ body {
     transition: 0.7s;
 } */
 
-body{
-    margin-top:20px;
-    background:#eee;
-}
 .card::after {
     display: block;
     position: absolute;
